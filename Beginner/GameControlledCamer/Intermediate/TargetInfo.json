@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameControlledCamer",
+			"Path": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\GameControlledCamer\\Source\\GameControlledCamer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameControlledCamerEditor",
+			"Path": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\GameControlledCamer\\Source\\GameControlledCamerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

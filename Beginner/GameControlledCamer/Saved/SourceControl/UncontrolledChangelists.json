@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/GameControlledCamer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/GameControlledCamer/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/GameControlledCamer/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/GameControlledCamer/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		}
+	]
+}

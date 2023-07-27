@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameControlledCamer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\GameControlledCamerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\GameControlledCamer.init.gen.cpp.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\GameControlledCamerGameModeBase.gen.cpp.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\GameControlledCamer.cpp.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\GameControlledCamerGameModeBase.cpp.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\Default.rc2.res"
+/OUT:"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\UnrealEditor-GameControlledCamer.lib"

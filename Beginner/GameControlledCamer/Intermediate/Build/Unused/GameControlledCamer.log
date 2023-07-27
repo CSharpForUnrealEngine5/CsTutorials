@@ -1,0 +1,28 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" GameControlledCamerEditor Win64 Development -Project="C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\GameControlledCamer.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\Jerome\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for GameControlledCamerEditor (working set of source files changed)
+  Parsing headers for GameControlledCamerEditor
+    Running Internal UnrealHeaderTool C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\GameControlledCamer.uproject C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\GameControlledCamerEditor\Development\GameControlledCamerEditor.uhtmanifest -WarningsAsErrors -installed
+  Total of 0 written
+  Reflection code generated for GameControlledCamerEditor in 9.9656975 seconds
+  Building GameControlledCamerEditor...
+  Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in GameControlledCamerEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (14 physical cores, 20 logical cores)
+    Executing up to 14 processes, one per physical core
+  Building 5 actions with 5 processes...
+  [1/5] Compile [x64] CameraDirector.cpp
+  [2/5] Compile [x64] CameraDirector.gen.cpp
+  [3/5] Link [x64] UnrealEditor-GameControlledCamer.lib
+     Creating library C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\UnrealEditor-GameControlledCamer.lib and object C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\UnrealEditor-GameControlledCamer.exp
+  [4/5] Link [x64] UnrealEditor-GameControlledCamer.dll
+     Creating library C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\UnrealEditor-GameControlledCamer.suppressed.lib and object C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\GameControlledCamer\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameControlledCamer\UnrealEditor-GameControlledCamer.suppressed.exp
+  [5/5] WriteMetadata GameControlledCamerEditor.target
+  Total time in Parallel executor: 2.70 seconds
+  Total execution time: 14.31 seconds

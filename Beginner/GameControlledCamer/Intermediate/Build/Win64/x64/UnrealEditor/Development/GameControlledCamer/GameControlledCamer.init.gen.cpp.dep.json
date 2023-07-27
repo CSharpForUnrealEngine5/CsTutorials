@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengine\\csharpforunrealengine5\\cstutorials\\beginner\\gamecontrolledcamer\\intermediate\\build\\win64\\unrealeditor\\inc\\gamecontrolledcamer\\uht\\gamecontrolledcamer.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine\\csharpforunrealengine5\\cstutorials\\beginner\\gamecontrolledcamer\\intermediate\\build\\win64\\x64\\gamecontrolledcamereditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\unrealengine\\csharpforunrealengine5\\cstutorials\\beginner\\gamecontrolledcamer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamecontrolledcamer\\definitions.gamecontrolledcamer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
