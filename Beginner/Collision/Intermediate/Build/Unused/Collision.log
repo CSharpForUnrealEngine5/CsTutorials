@@ -1,0 +1,29 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" CollisionEditor Win64 Development -Project="C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\Collision\Collision.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\Jerome\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for CollisionEditor (directory added)
+  Parsing headers for CollisionEditor
+    Running Internal UnrealHeaderTool C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\Collision\Collision.uproject C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\Collision\Intermediate\Build\Win64\CollisionEditor\Development\CollisionEditor.uhtmanifest -WarningsAsErrors -installed
+  Total of 3 written
+  Reflection code generated for CollisionEditor in 0.9761743 seconds
+  Building CollisionEditor...
+  Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in CollisionEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (14 physical cores, 20 logical cores)
+    Executing up to 14 processes, one per physical core
+  Building 6 actions with 6 processes...
+  [1/6] Compile [x64] Collision.init.gen.cpp
+  [2/6] Compile [x64] CollidingPawn.cpp
+  [3/6] Compile [x64] CollidingPawn.gen.cpp
+  [4/6] Link [x64] UnrealEditor-Collision.lib
+     Creating library C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\Collision\Intermediate\Build\Win64\x64\UnrealEditor\Development\Collision\UnrealEditor-Collision.lib and object C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\Collision\Intermediate\Build\Win64\x64\UnrealEditor\Development\Collision\UnrealEditor-Collision.exp
+  [5/6] Link [x64] UnrealEditor-Collision.dll
+     Creating library C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\Collision\Intermediate\Build\Win64\x64\UnrealEditor\Development\Collision\UnrealEditor-Collision.suppressed.lib and object C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\Collision\Intermediate\Build\Win64\x64\UnrealEditor\Development\Collision\UnrealEditor-Collision.suppressed.exp
+  [6/6] WriteMetadata CollisionEditor.target
+  Total time in Parallel executor: 1.46 seconds
+  Total execution time: 3.91 seconds

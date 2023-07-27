@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengine\\csharpforunrealengine5\\cstutorials\\beginner\\collision\\intermediate\\build\\win64\\unrealeditor\\inc\\collision\\uht\\collision.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine\\csharpforunrealengine5\\cstutorials\\beginner\\collision\\intermediate\\build\\win64\\x64\\collisioneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\unrealengine\\csharpforunrealengine5\\cstutorials\\beginner\\collision\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\collision\\definitions.collision.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,3 +1,6 @@
 [submodule "Beginner/GameControlledCamer/Plugins/CsToCpp"]
 	path = Beginner/GameControlledCamer/Plugins/CsToCpp
 	url = git@github.com:CSharpForUnrealEngine5/CsToCpp.git
+[submodule "Beginner/Collision/Plugins/CsToCpp"]
+	path = Beginner/Collision/Plugins/CsToCpp
+	url = git@github.com:CSharpForUnrealEngine5/CsToCpp.git

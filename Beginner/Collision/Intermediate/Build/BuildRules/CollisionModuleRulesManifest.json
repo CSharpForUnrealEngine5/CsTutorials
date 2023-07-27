@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\Collision\\Source\\Collision\\Collision.Build.cs",
+		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\Collision\\Plugins\\CsToCpp\\Source\\CsToCpp\\CsToCpp.Build.cs",
+		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\Collision\\Source\\Collision.Target.cs",
+		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\Collision\\Source\\CollisionEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

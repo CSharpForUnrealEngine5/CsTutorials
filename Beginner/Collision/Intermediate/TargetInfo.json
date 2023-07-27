@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Collision",
+			"Path": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\Collision\\Source\\Collision.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CollisionEditor",
+			"Path": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\Collision\\Source\\CollisionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
