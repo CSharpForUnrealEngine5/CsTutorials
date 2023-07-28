@@ -45,4 +45,25 @@
       <Filter>Source\Collision</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\Collision\Game.Generated">
+      <UniqueIdentifier>{8d08f850-dacb-4d3f-8c18-949cc413af8d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Collision\Game.Generated\CollidingPawn.cpp">
+      <Filter>Source\Collision\Game.Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Collision\Game.Generated\CollidingPawnMovementComponent.cpp">
+      <Filter>Source\Collision\Game.Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Collision\Game.Generated\CollidingPawn.h">
+      <Filter>Source\Collision\Game.Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Collision\Game.Generated\CollidingPawnMovementComponent.h">
+      <Filter>Source\Collision\Game.Generated</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
