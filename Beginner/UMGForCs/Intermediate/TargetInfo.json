@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UMGForCs",
+			"Path": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCs.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UMGForCsEditor",
+			"Path": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

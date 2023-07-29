@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCs\\Game\\Game.csproj": {}
+  },
+  "projects": {
+    "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj",
+        "projectName": "CSharpToCpp.Utilities",
+        "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
+        "outputPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp\\CSharpToCpp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp\\CSharpToCpp.fsproj",
+        "projectName": "CSharpToCpp",
+        "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp\\CSharpToCpp.fsproj",
+        "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
+        "outputPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\6.0.400\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj": {
+                "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.5, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.CodeAnalysis.ActivePatterns": {
+              "target": "Package",
+              "version": "[0.9.0, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0-2.final, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[4.7.0-2.final, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj",
+        "projectName": "GameFramework",
+        "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj",
+        "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
+        "outputPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
+                "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCs\\Game\\Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCs\\Game\\Game.csproj",
+        "projectName": "Game",
+        "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCs\\Game\\Game.csproj",
+        "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
+        "outputPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCs\\Game\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
+                "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj"
+              },
+              "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp\\CSharpToCpp.fsproj": {
+                "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp\\CSharpToCpp.fsproj"
+              },
+              "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj": {
+                "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

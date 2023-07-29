@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UMGForCs.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\UMGForCs\Intermediate\Build\Win64\x64\UMGForCsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\UMGForCs\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMGForCs\UMGForCs.init.gen.cpp.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\UMGForCs\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMGForCs\UMGForCsGameModeBase.gen.cpp.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\UMGForCs\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMGForCs\UMGForCs.cpp.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\UMGForCs\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMGForCs\UMGForCsGameModeBase.cpp.obj"
+"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\UMGForCs\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMGForCs\Default.rc2.res"
+/OUT:"C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\UMGForCs\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMGForCs\UnrealEditor-UMGForCs.lib"
