@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/UMGForCs/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/UMGForCs/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/UMGForCs/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/UMGForCs/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/UMGForCs/Content/MainMenu.uasset",
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/UMGForCs/Content/NewGameMenu.uasset",
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/UMGForCs/Content/BP_UMGForCSPlayerController.uasset",
+				"C:/UnrealEngine/CSharpForUnrealEngine5/CsTutorials/Beginner/UMGForCs/Content/BP_UMGForCSGameMode.uasset"
 			]
 		}
 	]
