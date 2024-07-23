@@ -1,5 +1,0 @@
-﻿  Using bundled DotNet SDK version: 6.0.302
-  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" CollisionEditor Win64 Development -Project="C:\UnrealEngine\CSharpForUnrealEngine5\CsTutorials\Beginner\Collision\Collision.uproject" -WaitMutex -FromMsBuild
-  Log file: C:\Users\Jerome\AppData\Local\UnrealBuildTool\Log.txt
-  Target is up to date
-  Total execution time: 0.99 seconds
