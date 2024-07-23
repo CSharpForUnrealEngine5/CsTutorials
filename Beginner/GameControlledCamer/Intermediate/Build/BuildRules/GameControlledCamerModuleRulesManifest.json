@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\GameControlledCamer\\Source\\GameControlledCamer\\GameControlledCamer.Build.cs",
-		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\GameControlledCamer\\Plugins\\CsToCpp\\Source\\CsToCpp\\CsToCpp.Build.cs",
-		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\GameControlledCamer\\Source\\GameControlledCamer.Target.cs",
-		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\GameControlledCamer\\Source\\GameControlledCamerEditor.Target.cs"
-	],
-	"EngineVersion": "5.2.1"
-}
