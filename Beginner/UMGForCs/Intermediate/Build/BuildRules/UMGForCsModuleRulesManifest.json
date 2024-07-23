@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCs\\UMGForCs.Build.cs",
-		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Plugins\\CsToCpp\\Source\\CsToCpp\\CsToCpp.Build.cs",
-		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCs.Target.cs",
-		"C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsTutorials\\Beginner\\UMGForCs\\Source\\UMGForCsEditor.Target.cs"
-	],
-	"EngineVersion": "5.2.1"
-}
